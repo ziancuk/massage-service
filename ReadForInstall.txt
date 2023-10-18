@@ -1,0 +1,9 @@
+Api Test Menggunakan Express Js dan database MongoDB.
+For Your Information :
+1. Versi node yang dipakai di laptop local : v14.19.0
+
+Cara install dan menggunakan API TEST :
+1. Menjalankan perintah 'npm install' terlebih dahulu.
+2. Lalu jalankan perintah 'npm run start'.
+7. jalankan "node message-service.js" untuk menjalankan service.
+8. jalankan "node send.js <nama email>" untuk mengirim email ke alamat yg dituju.
